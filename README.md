@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-This is all machine leaning projects.
+This Is Machine Leaning Regression Projects.
